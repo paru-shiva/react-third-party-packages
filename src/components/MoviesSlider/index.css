@@ -1,0 +1,10 @@
+.moviessliderComponent {
+  margin: 0px 50px;
+  display: flex;
+  justify-content: center;
+  width: 90%;
+}
+
+.slider-container {
+  width: 80%;
+}

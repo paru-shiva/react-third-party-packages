@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.movieImage {
+  width: 95%;
+}
+
+.popupContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.close {
+  outline: none;
+  align-self: flex-end;
+  background-color: transparent;
+  border: none;
+}

@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.PrimevideoComponent {
+  display: flex;
+  justify-content: flex-start;
+  background-color: lightgray;
+  min-height: 100vh;
+  color: white;
+  flex-direction: column;
+}
+
+.primevideoImage {
+  width: 100%;
+}
+
+.heading {
+  margin-left: 50px;
+}
